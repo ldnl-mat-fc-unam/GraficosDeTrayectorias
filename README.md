@@ -1,1 +1,1 @@
-# GraficosDeTrayectorias
+# GráficosDeTrayectorias
