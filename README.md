@@ -9,6 +9,7 @@ This project uses **dimensionality reduction algorithms (UMAP, PCA, MDS)** to an
 - Execution
 - Description of the Notebooks
 - Contribution
+- Citation
   
 ## General Description
 The objective of this project is to reduce the dimensionality of a dataset using UMAP, PCA, or MDS, and then visualize the results in different ways. The data is read from a CSV file and processed to generate three types of plots:
@@ -41,4 +42,10 @@ This notebook combines the hexagons generated in the second notebook with the po
 ## Contribution  
 **Diseño y programación**: *Leonardo Vázquez-Rodríguez*  
 **Diseño**: *José-Luis Jiménez-Andrade, Humberto-Andrés Carrillo-Calvet*  
+
+
+## Citation
+Vázquez-Rodríguez, Leonardo ; Jiménez-Andrade, José-Luis ; Carrillo-Calvet, Humberto-Andrés.  
+Trajectory Mapping with Dimensionality Reduction Methods.  
+Initial release (0.1.0). DOI: https://doi.org/10.5281/zenodo.13737659
 
